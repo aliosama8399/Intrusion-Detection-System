@@ -1,4 +1,4 @@
-###Intrusion Detection System with KDD Cup 1999 Dataset
+#Intrusion Detection System with KDD Cup 1999 Dataset
 #Overview
 This repository contains the code and resources for an Intrusion Detection System (IDS) utilizing the KDD Cup 1999 dataset. The system incorporates feature selection techniques and employs both stacking and voting classifiers for enhanced accuracy and robustness.
 
