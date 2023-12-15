@@ -14,9 +14,3 @@ This repository contains the code and resources for an Intrusion Detection Syste
 
 - **Voting Classifier:** A voting classifier is employed to aggregate the predictions of multiple individual classifiers, promoting a democratic decision-making process. This helps to mitigate individual model biases and achieve more robust results.
 
-## Usage
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/intrusion-detection-system.git
-   cd intrusion-detection-system
